@@ -11,3 +11,4 @@ dependencies[] = common
 dependencies[] = simpletest
 dependencies[] = devel
 dependencies[] = coder
+dependencies[] = coder_review
