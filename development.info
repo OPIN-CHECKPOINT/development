@@ -8,5 +8,6 @@ version = 7.x-1.0
 dependencies[] = common
 
 ; Contributed Modules
+dependencies[] = simpletest
 dependencies[] = devel
 dependencies[] = coder
